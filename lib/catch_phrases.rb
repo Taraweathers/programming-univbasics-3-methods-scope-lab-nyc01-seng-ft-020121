@@ -3,4 +3,3 @@ def mario
   phrase = "It's-a me, Mario!"
   puts status
 end
-mario
