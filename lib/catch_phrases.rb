@@ -19,3 +19,4 @@ def all_phrases
   phrase = "It's-a me, Mario!"
   phrase2 = "It's Dangerous To Go Alone! Take This."
 end
+status, phrase, phrase2
