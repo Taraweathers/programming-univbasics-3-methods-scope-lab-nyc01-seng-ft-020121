@@ -18,6 +18,7 @@ def all_phrases
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
   phrase = "It's-a me, Mario!"
   phrase2 = "It's Dangerous To Go Alone! Take This."
-  puts status, phrase, phrase2
+  puts phrase, status, phrase2 
 end
 all_phrases
+
